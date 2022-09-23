@@ -5,3 +5,5 @@ Affichez dans la console :
 - votre âge (ce doit être un nombre)
 */
 
+console.log(`Kael et 22 ans`);
+
