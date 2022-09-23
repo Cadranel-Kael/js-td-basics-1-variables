@@ -13,3 +13,34 @@
 - Devinez les valeurs à présent contenues dans chacune de ces 7 variables ;
 - Affichez les valeurs des 7 variables dans la console
 */
+
+let a = 2;
+console.log(`a = ${a}`);
+
+a = a - 1;
+console.log(`a = ${a}`);
+
+a= a + 1;
+console.log(`a = ${a}`);
+
+let b = 8;
+console.log(`b = ${b}`);
+
+b= b + 1;
+console.log(`b = ${b}`);
+
+const c = a + b^2;
+console.log(`c = ${c}`);
+
+const d = a * b + b;
+console.log(`d = ${d}`);
+
+const e = a * (b + b);
+console.log(`e = ${e}`);
+
+const f = a * b + b;
+console.log(`f = ${f}`);
+
+const g = b / a * a;
+console.log(`g = ${g}`);
+

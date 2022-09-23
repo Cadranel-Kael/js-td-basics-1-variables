@@ -14,4 +14,10 @@ avec les valeurs 4 et 5 selon qu'elles sont de type nombre ou de type chaîne  :
 - que se passe-t-il si on entoure toute l'expression (VALEUR OPÉRANDE VALEUR) de guillemets ? Pourquoi ?
 */
 
+console.log(4 + 5);
 
+console.log(`4` + `5`);
+
+console.log(4 + `5`);
+
+console.log(`4 + 5`);

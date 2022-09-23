@@ -5,5 +5,8 @@ Affichez dans la console :
 - votre âge (ce doit être un nombre)
 */
 
-console.log(`Kael et 22 ans`);
+const nom = "Kael";
+const age = 22;
+
+console.log(`${nom} et ${age} ans`);
 
