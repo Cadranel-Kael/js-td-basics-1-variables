@@ -4,20 +4,20 @@
 
 // 1. Initialiser une variable firstName à John et afficher sa valeur dans la console
 
-let firstName = "John";
+const firstName = "John";
 
 console.log(firstName);
 
 // 2. Initialiser une variable lastName à Smith et une variable age à 28
 
-let lastName = "Smith";
-let age = 28;
+const lastName = "Smith";
+const age = 28;
 
 console.log(firstName,lastName,age);
 
 // 3. Initialiser une variable fullAge à true et l'afficher
 
-let fullAge = true;
+const fullAge = true;
 
 console.log(firstName,lastName,age,fullAge);
 
